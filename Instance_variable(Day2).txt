@@ -1,0 +1,21 @@
+                                                         :::INSTANCE VARIABLE:::
+
+1: DECLARATION: Inside the class but outside the method,constructor or                                     blocks .
+
+
+
+2: SCOPE: Can be used in any method constructor blocks etc.
+
+
+
+3:WHEN VARIABLES GET ALLOCATED: When object is created of the                                                                                                     paticular class  then memory is                                                                                                  allocated to the  instance variables.                                                                                      When object gets deleted then                                                                                                  memory gets deleted.
+
+
+4:STORED MEMORY:  Heap Memory
+
+
+5:Default_Value: Yes they have Default Values:(0 for int ,False for boolean                                             and null for object.
+
+6: ACCESS SPECIFIERS(AS) : Yes we can use Access Specifiers.
+
+7:How to use AS: If it is static method then create the object of the class then                                     call it. otherwise as it is.
